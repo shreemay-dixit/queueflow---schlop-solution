@@ -1,0 +1,8 @@
+{
+  "name": "QueueFlow - Universal AI Queue Engine",
+  "description": "Agentic, explainable, and multi-tenant AI queue management engine with natural language triage, real-time explainable wait times, and dynamic no-show consent recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
